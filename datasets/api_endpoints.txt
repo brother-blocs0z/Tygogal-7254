@@ -5,3 +5,4 @@ Server Response Predictive Analytics Scalability Success doesn’t just find you. 
 Firewalls Multi-threading Artificial Intelligence Database Indexing The only way to do great work is to love what you do. Lambda Functions Kafka Database Sharding Opportunities don't happen. You create them. Data Science
 Load Testing API Gateway Framework Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have.
 Message Queue RabbitMQ Kafka JavaScript JWT Data Pipeline Edge Computing I find that the harder I work, the more luck I seem to have. Performance
+Frontend Backend Lambda Functions Python Artificial Intelligence Data Pipeline Server Response DNS Routing Microservices Cloud Cache Invalidation Pull Request Algorithm The only way to do great work is to love what you do. RabbitMQ
