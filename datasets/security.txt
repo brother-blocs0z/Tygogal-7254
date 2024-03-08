@@ -9,3 +9,4 @@ Data Pipeline Serverless Security Quantum Computing Event Sourcing Python Databa
 Predictive Analytics Frontend Kafka GraphQL Success doesn’t just find you. You have to go out and get it. Sharding Innovation distinguishes between a leader and a follower. Pull Request
 Dream big and dare to fail. Replica Set Sharding Pull Request Deployment Agile
 A/B Testing Cloud Agile Load Testing Load Balancing OAuth Predictive Analytics Microservices Scalability Big Data
+Frontend Act as if what you do makes a difference. It does. React Algorithm Database Indexing WebSockets DevOps Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Great things never come from comfort zones. Logging Version Control Opportunities don't happen. You create them. Code Review RabbitMQ
