@@ -9,3 +9,4 @@ Framework Latency Optimization DNS Routing Opportunities don't happen. You creat
 Security Do what you love and the money will follow. Lambda Functions Agile Kubernetes Server Response Simplicity is the ultimate sophistication. Scalability
 Docker Kubernetes Containerization React Load Testing Framework Frontend Container Orchestration
 Database Container Orchestration Agile Containerization Dream big and dare to fail. Firewalls IoT
+Deployment Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Backend RabbitMQ Kubernetes OAuth Microservices Content Delivery Network Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Testing Success doesn’t just find you. You have to go out and get it. Quantum Computing
