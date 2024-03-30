@@ -16,3 +16,4 @@ Data Science Edge Computing Success doesn’t just find you. You have to go out an
 Machine Learning Testing WebSockets Success usually comes to those who are too busy to be looking for it. Frontend Dream big and dare to fail. Automation
 Code Review DNS Routing Framework Version Control Scalability Container Orchestration JavaScript
 DNS Routing Machine Learning Parallel Processing Success is not in what you have, but who you are. Virtual Machines Version Control
+Optimization Happiness is not something ready made. It comes from your own actions. Backend UX Optimization Latency Optimization Virtual Machines Act as if what you do makes a difference. It does. Data Pipeline Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. Neural Networks
