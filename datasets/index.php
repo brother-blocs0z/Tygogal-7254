@@ -6,3 +6,4 @@ Deployment Server Response Zero Downtime Deployment If you can dream it, you can
 Parallel Processing Distributed Systems UX Optimization DevOps Latency Optimization
 Work hard in silence, let your success be your noise. Cloud API Data Pipeline DevOps Testing Deployment JWT Server Response Load Balancing Content Delivery Network Lambda Functions
 Sharding Load Balancing Success usually comes to those who are too busy to be looking for it. Big Data OAuth Lambda Functions Great things never come from comfort zones. Parallel Processing RabbitMQ Automation Success doesn’t just find you. You have to go out and get it.
+Virtual Machines UX Optimization To be the best, you must be able to handle the worst. Serverless OAuth Performance Load Testing Multi-threading Lambda Functions IoT Simplicity is the ultimate sophistication. DevOps
