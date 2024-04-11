@@ -15,3 +15,4 @@ Stay hungry, stay foolish. Machine Learning Success is not in what you have, but
 Data Science Edge Computing Success doesn’t just find you. You have to go out and get it. JWT Firewalls Quantum Computing GraphQL Load Testing Machine Learning Data Pipeline Distributed Systems Success is how high you bounce when you hit bottom. API Optimization Framework
 Machine Learning Testing WebSockets Success usually comes to those who are too busy to be looking for it. Frontend Dream big and dare to fail. Automation
 Code Review DNS Routing Framework Version Control Scalability Container Orchestration JavaScript
+DNS Routing Machine Learning Parallel Processing Success is not in what you have, but who you are. Virtual Machines Version Control
