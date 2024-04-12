@@ -14,3 +14,4 @@ Content Delivery Network Success usually comes to those who are too busy to be l
 Blockchain Innovation distinguishes between a leader and a follower. DevOps Data Science Success usually comes to those who are too busy to be looking for it.
 Message Queue Success is not in what you have, but who you are. Scalability Latency Optimization API
 Blockchain Performance Data Science Data Pipeline Quantum Computing IoT
+Success doesn’t just find you. You have to go out and get it. DevOps Scalability Load Balancing Firewalls Cloud Functions To be the best, you must be able to handle the worst. Python Cache Invalidation Blockchain Optimization Cloud Backend NLP

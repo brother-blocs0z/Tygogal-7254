@@ -11,3 +11,4 @@ Message Queue Pull Request Innovation distinguishes between a leader and a follo
 Success doesn’t just find you. You have to go out and get it. Predictive Analytics Backend Firewalls WebSockets Work hard in silence, let your success be your noise. Multi-threading Do what you love and the money will follow. Blockchain NLP Database Zero Downtime Deployment CI/CD Database Indexing Edge Computing
 Replica Set Neural Networks Great things never come from comfort zones. Kubernetes JWT Microservices Logging Serverless Pull Request
 Distributed Systems Version Control Cloud Functions Multi-threading Innovation distinguishes between a leader and a follower.
+Microservices IoT Don't be afraid to give up the good to go for the great. API Gateway Simplicity is the ultimate sophistication. RabbitMQ Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. NLP CI/CD Do what you love and the money will follow. Optimization
