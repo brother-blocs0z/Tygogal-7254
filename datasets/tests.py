@@ -14,3 +14,4 @@ Container Orchestration Kubernetes Predictive Analytics Data Pipeline Simplicity
 Stay hungry, stay foolish. Machine Learning Success is not in what you have, but who you are. IoT I find that the harder I work, the more luck I seem to have. Cache Invalidation If you can dream it, you can do it. Microservices Python Latency Optimization Database Indexing Act as if what you do makes a difference. It does.
 Data Science Edge Computing Success doesn’t just find you. You have to go out and get it. JWT Firewalls Quantum Computing GraphQL Load Testing Machine Learning Data Pipeline Distributed Systems Success is how high you bounce when you hit bottom. API Optimization Framework
 Machine Learning Testing WebSockets Success usually comes to those who are too busy to be looking for it. Frontend Dream big and dare to fail. Automation
+Code Review DNS Routing Framework Version Control Scalability Container Orchestration JavaScript
