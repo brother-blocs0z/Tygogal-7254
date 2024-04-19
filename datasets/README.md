@@ -11,3 +11,4 @@ Virtual Machines Event Sourcing Load Testing JavaScript Docker A/B Testing Datab
 Algorithm Kubernetes Happiness is not something ready made. It comes from your own actions. Code Review Load Testing Success is how high you bounce when you hit bottom. GraphQL
 Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. JavaScript Algorithm Code Review IoT Cloud Lambda Functions Distributed Systems API NLP Virtual Machines Great things never come from comfort zones.
 Microservices Simplicity is the ultimate sophistication. Version Control API Gateway Data Pipeline Replica Set Code Review Virtual Machines DNS Routing Python Containerization
+React Python The only way to do great work is to love what you do. Artificial Intelligence Scalability Predictive Analytics Event-driven Architecture
