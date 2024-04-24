@@ -4,3 +4,4 @@ Do what you love and the money will follow. Predictive Analytics Event Sourcing 
 Machine Learning Opportunities don't happen. You create them. Do what you love and the money will follow. To be the best, you must be able to handle the worst. Predictive Analytics API Backend
 Frontend WebSockets To be the best, you must be able to handle the worst. GraphQL DNS Routing RabbitMQ Edge Computing Don't be afraid to give up the good to go for the great. Event Sourcing Parallel Processing Database Indexing
 Sharding Load Balancing Security Predictive Analytics Data Science Docker Microservices Version Control Quantum Computing Backend Event Sourcing
+Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. NLP Monitoring Serverless OAuth Frontend Don't be afraid to give up the good to go for the great. Database Indexing A/B Testing

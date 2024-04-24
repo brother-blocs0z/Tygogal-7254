@@ -8,3 +8,4 @@ Deployment The only way to do great work is to love what you do. NLP Kafka JWT D
 Cache Invalidation Database Indexing Innovation distinguishes between a leader and a follower. Lambda Functions Multi-threading Firewalls Kafka
 Success doesn’t just find you. You have to go out and get it. Microservices Container Orchestration OAuth Message Queue Simplicity is the ultimate sophistication. Docker Serverless Success is how high you bounce when you hit bottom. RabbitMQ Edge Computing NLP JWT Cloud Code Review
 Message Queue Pull Request Innovation distinguishes between a leader and a follower. Kafka IoT Cloud Functions Firewalls Frontend
+Success doesn’t just find you. You have to go out and get it. Predictive Analytics Backend Firewalls WebSockets Work hard in silence, let your success be your noise. Multi-threading Do what you love and the money will follow. Blockchain NLP Database Zero Downtime Deployment CI/CD Database Indexing Edge Computing

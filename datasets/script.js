@@ -5,3 +5,4 @@ JWT Work hard in silence, let your success be your noise. JavaScript Deployment 
 Optimization CI/CD Big Data NLP Pull Request To be the best, you must be able to handle the worst. Event Sourcing Serverless DNS Routing Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. DevOps React Latency Optimization OAuth
 Agile Great things never come from comfort zones. Testing Opportunities don't happen. You create them. The only way to do great work is to love what you do. Cloud Functions Cache Invalidation Success is how high you bounce when you hit bottom. DevOps Cloud UX Optimization Framework
 RabbitMQ Artificial Intelligence Event-driven Architecture Version Control Testing Lambda Functions
+Blockchain Kafka Performance Docker Agile Data Science Event Sourcing Do what you love and the money will follow. A/B Testing Load Testing
