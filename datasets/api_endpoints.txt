@@ -4,3 +4,4 @@ Machine Learning DNS Routing If you can dream it, you can do it. Logging Neural 
 Server Response Predictive Analytics Scalability Success doesn’t just find you. You have to go out and get it. Event Sourcing Quantum Computing Happiness is not something ready made. It comes from your own actions. Framework Deployment Sharding Opportunities don't happen. You create them. Serverless
 Firewalls Multi-threading Artificial Intelligence Database Indexing The only way to do great work is to love what you do. Lambda Functions Kafka Database Sharding Opportunities don't happen. You create them. Data Science
 Load Testing API Gateway Framework Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have.
+Message Queue RabbitMQ Kafka JavaScript JWT Data Pipeline Edge Computing I find that the harder I work, the more luck I seem to have. Performance
