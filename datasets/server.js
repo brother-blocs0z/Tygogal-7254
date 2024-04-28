@@ -6,3 +6,4 @@ Automation Content Delivery Network RabbitMQ If you can dream it, you can do it.
 Difficult roads often lead to beautiful destinations. Lambda Functions Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. UX Optimization Neural Networks OAuth Dream big and dare to fail. Python Backend
 Python Machine Learning Scalability Performance Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Kafka Happiness is not something ready made. It comes from your own actions. UX Optimization Docker
 Optimization Database Predictive Analytics Agile Data Science
+Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Innovation distinguishes between a leader and a follower. Backend Latency Optimization Big Data Difficult roads often lead to beautiful destinations. JavaScript Algorithm Dream big and dare to fail.

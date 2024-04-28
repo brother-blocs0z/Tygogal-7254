@@ -5,3 +5,4 @@ OAuth RabbitMQ DevOps API Performance Cloud Functions Kafka Work hard in silence
 Deployment Server Response Zero Downtime Deployment If you can dream it, you can do it. Dream big and dare to fail. Database Indexing Firewalls Content Delivery Network Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Agile Do what you love and the money will follow. JWT Frontend
 Parallel Processing Distributed Systems UX Optimization DevOps Latency Optimization
 Work hard in silence, let your success be your noise. Cloud API Data Pipeline DevOps Testing Deployment JWT Server Response Load Balancing Content Delivery Network Lambda Functions
+Sharding Load Balancing Success usually comes to those who are too busy to be looking for it. Big Data OAuth Lambda Functions Great things never come from comfort zones. Parallel Processing RabbitMQ Automation Success doesn’t just find you. You have to go out and get it.
