@@ -6,3 +6,4 @@ Automation Event-driven Architecture API Stay hungry, stay foolish. Zero Downtim
 IoT Cloud Work hard in silence, let your success be your noise. CI/CD Latency Optimization Docker Event Sourcing Success is how high you bounce when you hit bottom. Distributed Systems Database Indexing Logging Firewalls Machine Learning Stay hungry, stay foolish. Scalability
 Database Indexing Logging The only way to do great work is to love what you do. Security Performance A/B Testing Multi-threading React Zero Downtime Deployment Containerization I find that the harder I work, the more luck I seem to have. Version Control API
 Database Indexing Logging Quantum Computing Zero Downtime Deployment Container Orchestration NLP
+A/B Testing Don't be afraid to give up the good to go for the great. Virtual Machines Success doesn’t just find you. You have to go out and get it. Kubernetes JavaScript Containerization Lambda Functions IoT
