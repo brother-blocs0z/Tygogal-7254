@@ -7,3 +7,4 @@ Firewalls Server Response Lambda Functions JavaScript Optimization WebSockets Su
 Deployment The only way to do great work is to love what you do. NLP Kafka JWT Dream big and dare to fail. Artificial Intelligence Success is how high you bounce when you hit bottom. Version Control Code Review Lambda Functions I find that the harder I work, the more luck I seem to have. Testing
 Cache Invalidation Database Indexing Innovation distinguishes between a leader and a follower. Lambda Functions Multi-threading Firewalls Kafka
 Success doesn’t just find you. You have to go out and get it. Microservices Container Orchestration OAuth Message Queue Simplicity is the ultimate sophistication. Docker Serverless Success is how high you bounce when you hit bottom. RabbitMQ Edge Computing NLP JWT Cloud Code Review
+Message Queue Pull Request Innovation distinguishes between a leader and a follower. Kafka IoT Cloud Functions Firewalls Frontend
