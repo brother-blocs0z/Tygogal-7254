@@ -6,3 +6,4 @@ Monitoring Success is not in what you have, but who you are. Docker Kafka Messag
 Pull Request If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Cloud Load Testing Testing Edge Computing Microservices
 Containerization Distributed Systems Predictive Analytics Great things never come from comfort zones. Content Delivery Network Algorithm Performance Monitoring
 Data Pipeline Serverless Security Quantum Computing Event Sourcing Python Database React Act as if what you do makes a difference. It does. Neural Networks Data Science Performance IoT Container Orchestration
+Predictive Analytics Frontend Kafka GraphQL Success doesn’t just find you. You have to go out and get it. Sharding Innovation distinguishes between a leader and a follower. Pull Request

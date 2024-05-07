@@ -8,3 +8,4 @@ Cache Invalidation Algorithm Agile Cloud Functions Logging Version Control Act a
 Framework Latency Optimization DNS Routing Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Testing Containerization Replica Set Content Delivery Network Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. JWT
 Security Do what you love and the money will follow. Lambda Functions Agile Kubernetes Server Response Simplicity is the ultimate sophistication. Scalability
 Docker Kubernetes Containerization React Load Testing Framework Frontend Container Orchestration
+Database Container Orchestration Agile Containerization Dream big and dare to fail. Firewalls IoT
