@@ -13,3 +13,4 @@ Distributed Systems Framework Great things never come from comfort zones. Happin
 Content Delivery Network Success usually comes to those who are too busy to be looking for it. API Dream big and dare to fail. A/B Testing Frontend
 Blockchain Innovation distinguishes between a leader and a follower. DevOps Data Science Success usually comes to those who are too busy to be looking for it.
 Message Queue Success is not in what you have, but who you are. Scalability Latency Optimization API
+Blockchain Performance Data Science Data Pipeline Quantum Computing IoT
