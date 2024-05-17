@@ -9,3 +9,4 @@ Python If you can dream it, you can do it. Cloud Load Balancing Automation Zero 
 Database If you can dream it, you can do it. Serverless Quantum Computing Data Science IoT DevOps Security Kubernetes NLP
 Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Quantum Computing The only way to do great work is to love what you do. Dream big and dare to fail. Code Review I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. GraphQL Act as if what you do makes a difference. It does.
 Cloud Functions API Gateway Success is how high you bounce when you hit bottom. Event Sourcing Data Pipeline DNS Routing Database Indexing Testing Success usually comes to those who are too busy to be looking for it. Agile
+Virtual Machines Security Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Lambda Functions DevOps WebSockets
