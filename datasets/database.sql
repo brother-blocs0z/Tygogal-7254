@@ -7,3 +7,4 @@ Database Indexing A/B Testing Automation NLP Code Review IoT Security
 Server Response CI/CD Difficult roads often lead to beautiful destinations. API Gateway RabbitMQ Predictive Analytics Backend
 Microservices Message Queue Framework Version Control Deployment Multi-threading
 Blockchain Data Science Machine Learning Do what you love and the money will follow. GraphQL Simplicity is the ultimate sophistication. React
+Success usually comes to those who are too busy to be looking for it. Cloud Framework Neural Networks Kafka Cloud Functions Artificial Intelligence Microservices Edge Computing Python OAuth WebSockets
