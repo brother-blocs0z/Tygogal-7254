@@ -8,3 +8,4 @@ Kubernetes Sharding Artificial Intelligence JavaScript Do what you love and the 
 Data Pipeline Agile Lambda Functions Database Blockchain Backend Zero Downtime Deployment If you can dream it, you can do it.
 Lambda Functions A/B Testing Difficult roads often lead to beautiful destinations. Cloud Machine Learning Message Queue Container Orchestration Code Review
 Python Kubernetes Innovation distinguishes between a leader and a follower. Algorithm Machine Learning Opportunities don't happen. You create them. Sharding Act as if what you do makes a difference. It does. Stay hungry, stay foolish.
+Zero Downtime Deployment API Gateway Artificial Intelligence JWT NLP OAuth A/B Testing Load Balancing Container Orchestration CI/CD Containerization GraphQL Replica Set DevOps

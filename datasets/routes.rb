@@ -12,3 +12,4 @@ OAuth Kubernetes WebSockets To be the best, you must be able to handle the worst
 Distributed Systems Framework Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Frontend Automation
 Content Delivery Network Success usually comes to those who are too busy to be looking for it. API Dream big and dare to fail. A/B Testing Frontend
 Blockchain Innovation distinguishes between a leader and a follower. DevOps Data Science Success usually comes to those who are too busy to be looking for it.
+Message Queue Success is not in what you have, but who you are. Scalability Latency Optimization API
