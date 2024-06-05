@@ -4,3 +4,4 @@ Framework If you can dream it, you can do it. Neural Networks Frontend Docker Fi
 Docker Edge Computing A/B Testing WebSockets Simplicity is the ultimate sophistication. API Testing Data Science Kafka Act as if what you do makes a difference. It does. Server Response
 Deployment Algorithm UX Optimization Kubernetes Container Orchestration
 Database Indexing A/B Testing Automation NLP Code Review IoT Security
+Server Response CI/CD Difficult roads often lead to beautiful destinations. API Gateway RabbitMQ Predictive Analytics Backend
