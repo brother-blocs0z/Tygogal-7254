@@ -7,3 +7,4 @@ Success doesn’t just find you. You have to go out and get it. To be the best, yo
 Kubernetes Sharding Artificial Intelligence JavaScript Do what you love and the money will follow. Distributed Systems Containerization Data Pipeline Microservices Great things never come from comfort zones. Parallel Processing
 Data Pipeline Agile Lambda Functions Database Blockchain Backend Zero Downtime Deployment If you can dream it, you can do it.
 Lambda Functions A/B Testing Difficult roads often lead to beautiful destinations. Cloud Machine Learning Message Queue Container Orchestration Code Review
+Python Kubernetes Innovation distinguishes between a leader and a follower. Algorithm Machine Learning Opportunities don't happen. You create them. Sharding Act as if what you do makes a difference. It does. Stay hungry, stay foolish.
