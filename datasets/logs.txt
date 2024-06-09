@@ -6,3 +6,4 @@ Do what you love and the money will follow. Containerization CI/CD Data Pipeline
 Difficult roads often lead to beautiful destinations. Database Indexing Content Delivery Network DevOps Automation Lambda Functions Scalability Load Balancing API DNS Routing IoT Neural Networks Kafka
 Do what you love and the money will follow. Event-driven Architecture Great things never come from comfort zones. Simplicity is the ultimate sophistication. Machine Learning OAuth
 React NLP A/B Testing Python JWT Code Review Container Orchestration DevOps Backend Firewalls Cloud Functions Latency Optimization Load Balancing Quantum Computing
+Cloud Do what you love and the money will follow. Load Balancing Success is not in what you have, but who you are. Optimization Happiness is not something ready made. It comes from your own actions. UX Optimization Success doesn’t just find you. You have to go out and get it. NLP Message Queue Latency Optimization Serverless Framework

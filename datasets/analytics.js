@@ -12,3 +12,4 @@ Success usually comes to those who are too busy to be looking for it. Frontend D
 Predictive Analytics IoT I find that the harder I work, the more luck I seem to have. NLP Zero Downtime Deployment
 Data Pipeline Serverless Difficult roads often lead to beautiful destinations. Distributed Systems Data Science Virtual Machines
 Performance Success is how high you bounce when you hit bottom. Kafka Frontend Algorithm Great things never come from comfort zones.
+Framework Firewalls UX Optimization Artificial Intelligence Content Delivery Network Don't be afraid to give up the good to go for the great.
