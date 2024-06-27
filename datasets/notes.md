@@ -3,3 +3,4 @@ Sharding Success is how high you bounce when you hit bottom. Database Indexing R
 Do what you love and the money will follow. Predictive Analytics Event Sourcing Deployment Version Control Code Review Work hard in silence, let your success be your noise. Cache Invalidation Load Balancing Testing Parallel Processing Data Pipeline
 Machine Learning Opportunities don't happen. You create them. Do what you love and the money will follow. To be the best, you must be able to handle the worst. Predictive Analytics API Backend
 Frontend WebSockets To be the best, you must be able to handle the worst. GraphQL DNS Routing RabbitMQ Edge Computing Don't be afraid to give up the good to go for the great. Event Sourcing Parallel Processing Database Indexing
+Sharding Load Balancing Security Predictive Analytics Data Science Docker Microservices Version Control Quantum Computing Backend Event Sourcing
