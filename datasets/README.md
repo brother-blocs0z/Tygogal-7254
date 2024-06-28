@@ -8,3 +8,4 @@ API Deployment Testing Scalability Database Indexing Automation Success doesn’t 
 Pull Request UX Optimization Opportunities don't happen. You create them. Cloud Firewalls Performance Optimization Kafka Innovation distinguishes between a leader and a follower. Framework
 A/B Testing Big Data Sharding Innovation distinguishes between a leader and a follower. Docker Replica Set Server Response Virtual Machines Event-driven Architecture Database Load Balancing Latency Optimization API Neural Networks Logging
 Virtual Machines Event Sourcing Load Testing JavaScript Docker A/B Testing Database Multi-threading IoT Automation
+Algorithm Kubernetes Happiness is not something ready made. It comes from your own actions. Code Review Load Testing Success is how high you bounce when you hit bottom. GraphQL
