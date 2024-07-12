@@ -6,3 +6,4 @@ IoT Act as if what you do makes a difference. It does. Deployment Code Review La
 Don't be afraid to give up the good to go for the great. Sharding Neural Networks Server Response Act as if what you do makes a difference. It does. Container Orchestration
 IoT Container Orchestration OAuth Multi-threading Serverless Testing Act as if what you do makes a difference. It does. Lambda Functions Code Review Database Indexing Neural Networks
 JavaScript Event Sourcing GraphQL Act as if what you do makes a difference. It does. API Gateway Serverless Database Indexing Load Testing Blockchain Security Neural Networks
+Cloud I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Server Response Success doesn’t just find you. You have to go out and get it. Cache Invalidation Distributed Systems Neural Networks Python API Gateway A/B Testing DevOps
