@@ -10,3 +10,4 @@ Zero Downtime Deployment Server Response I find that the harder I work, the more
 DevOps Replica Set DNS Routing JWT Neural Networks
 OAuth Kubernetes WebSockets To be the best, you must be able to handle the worst. JavaScript Act as if what you do makes a difference. It does. Load Testing Frontend Server Response CI/CD
 Distributed Systems Framework Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Frontend Automation
+Content Delivery Network Success usually comes to those who are too busy to be looking for it. API Dream big and dare to fail. A/B Testing Frontend
