@@ -5,3 +5,4 @@ API Success doesn’t just find you. You have to go out and get it. Agile Predicti
 IoT Act as if what you do makes a difference. It does. Deployment Code Review Lambda Functions Content Delivery Network Innovation distinguishes between a leader and a follower.
 Don't be afraid to give up the good to go for the great. Sharding Neural Networks Server Response Act as if what you do makes a difference. It does. Container Orchestration
 IoT Container Orchestration OAuth Multi-threading Serverless Testing Act as if what you do makes a difference. It does. Lambda Functions Code Review Database Indexing Neural Networks
+JavaScript Event Sourcing GraphQL Act as if what you do makes a difference. It does. API Gateway Serverless Database Indexing Load Testing Blockchain Security Neural Networks
