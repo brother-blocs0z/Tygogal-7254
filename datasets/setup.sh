@@ -4,3 +4,4 @@ Microservices Zero Downtime Deployment Database Indexing Do what you love and th
 RabbitMQ Blockchain React UX Optimization Logging Edge Computing Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Containerization
 Latency Optimization Success doesn’t just find you. You have to go out and get it. Cloud JavaScript API Gateway
 Firewalls Server Response Lambda Functions JavaScript Optimization WebSockets Success usually comes to those who are too busy to be looking for it. Kubernetes DNS Routing Distributed Systems Database Kafka Content Delivery Network Sharding Opportunities don't happen. You create them.
+Deployment The only way to do great work is to love what you do. NLP Kafka JWT Dream big and dare to fail. Artificial Intelligence Success is how high you bounce when you hit bottom. Version Control Code Review Lambda Functions I find that the harder I work, the more luck I seem to have. Testing
