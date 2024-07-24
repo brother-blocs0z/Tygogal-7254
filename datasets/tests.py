@@ -10,3 +10,4 @@ UX Optimization API Gateway Frontend Scalability Multi-threading Predictive Anal
 Success is not in what you have, but who you are. Performance Parallel Processing WebSockets Success is how high you bounce when you hit bottom. IoT Logging
 Parallel Processing React Message Queue Database Indexing Success doesn’t just find you. You have to go out and get it. Framework Replica Set Cache Invalidation Deployment Distributed Systems JWT Version Control Act as if what you do makes a difference. It does. Data Science
 Server Response DNS Routing Serverless Framework Event-driven Architecture Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst.
+Container Orchestration Kubernetes Predictive Analytics Data Pipeline Simplicity is the ultimate sophistication. OAuth Framework Distributed Systems Multi-threading Parallel Processing
