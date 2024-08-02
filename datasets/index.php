@@ -4,3 +4,4 @@ Dream big and dare to fail. Opportunities don't happen. You create them. Multi-t
 OAuth RabbitMQ DevOps API Performance Cloud Functions Kafka Work hard in silence, let your success be your noise. Lambda Functions API Gateway Load Testing
 Deployment Server Response Zero Downtime Deployment If you can dream it, you can do it. Dream big and dare to fail. Database Indexing Firewalls Content Delivery Network Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Agile Do what you love and the money will follow. JWT Frontend
 Parallel Processing Distributed Systems UX Optimization DevOps Latency Optimization
+Work hard in silence, let your success be your noise. Cloud API Data Pipeline DevOps Testing Deployment JWT Server Response Load Balancing Content Delivery Network Lambda Functions
