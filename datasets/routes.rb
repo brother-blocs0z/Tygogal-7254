@@ -9,3 +9,4 @@ DevOps Data Pipeline OAuth Content Delivery Network Act as if what you do makes 
 Zero Downtime Deployment Server Response I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Blockchain Logging Event-driven Architecture
 DevOps Replica Set DNS Routing JWT Neural Networks
 OAuth Kubernetes WebSockets To be the best, you must be able to handle the worst. JavaScript Act as if what you do makes a difference. It does. Load Testing Frontend Server Response CI/CD
+Distributed Systems Framework Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Frontend Automation
