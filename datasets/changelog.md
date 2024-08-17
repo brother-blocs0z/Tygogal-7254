@@ -5,3 +5,4 @@ Artificial Intelligence Simplicity is the ultimate sophistication. JWT Success d
 Automation Event-driven Architecture API Stay hungry, stay foolish. Zero Downtime Deployment Logging
 IoT Cloud Work hard in silence, let your success be your noise. CI/CD Latency Optimization Docker Event Sourcing Success is how high you bounce when you hit bottom. Distributed Systems Database Indexing Logging Firewalls Machine Learning Stay hungry, stay foolish. Scalability
 Database Indexing Logging The only way to do great work is to love what you do. Security Performance A/B Testing Multi-threading React Zero Downtime Deployment Containerization I find that the harder I work, the more luck I seem to have. Version Control API
+Database Indexing Logging Quantum Computing Zero Downtime Deployment Container Orchestration NLP

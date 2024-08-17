@@ -7,3 +7,4 @@ OAuth Optimization Cache Invalidation Sharding Container Orchestration Difficult
 API Deployment Testing Scalability Database Indexing Automation Success doesn’t just find you. You have to go out and get it. Data Pipeline Simplicity is the ultimate sophistication. Cloud Predictive Analytics Data Science Act as if what you do makes a difference. It does. Event Sourcing Agile
 Pull Request UX Optimization Opportunities don't happen. You create them. Cloud Firewalls Performance Optimization Kafka Innovation distinguishes between a leader and a follower. Framework
 A/B Testing Big Data Sharding Innovation distinguishes between a leader and a follower. Docker Replica Set Server Response Virtual Machines Event-driven Architecture Database Load Balancing Latency Optimization API Neural Networks Logging
+Virtual Machines Event Sourcing Load Testing JavaScript Docker A/B Testing Database Multi-threading IoT Automation
