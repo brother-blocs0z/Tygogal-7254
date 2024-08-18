@@ -9,3 +9,4 @@ Parallel Processing Firewalls OAuth Virtual Machines Container Orchestration Ser
 Happiness is not something ready made. It comes from your own actions. Blockchain Great things never come from comfort zones. The only way to do great work is to love what you do. Neural Networks Docker
 If you can dream it, you can do it. Distributed Systems Microservices Edge Computing Database Monitoring Backend Serverless Difficult roads often lead to beautiful destinations. GraphQL Big Data
 Success usually comes to those who are too busy to be looking for it. Frontend Data Pipeline Cache Invalidation Docker Virtual Machines JWT Edge Computing Replica Set Happiness is not something ready made. It comes from your own actions. Event Sourcing
+Predictive Analytics IoT I find that the harder I work, the more luck I seem to have. NLP Zero Downtime Deployment
