@@ -4,3 +4,4 @@ Neural Networks Artificial Intelligence Virtual Machines Event Sourcing Success 
 API Success doesn’t just find you. You have to go out and get it. Agile Predictive Analytics Frontend Do what you love and the money will follow. Data Science CI/CD RabbitMQ Neural Networks Success is how high you bounce when you hit bottom. IoT
 IoT Act as if what you do makes a difference. It does. Deployment Code Review Lambda Functions Content Delivery Network Innovation distinguishes between a leader and a follower.
 Don't be afraid to give up the good to go for the great. Sharding Neural Networks Server Response Act as if what you do makes a difference. It does. Container Orchestration
+IoT Container Orchestration OAuth Multi-threading Serverless Testing Act as if what you do makes a difference. It does. Lambda Functions Code Review Database Indexing Neural Networks
