@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Logging Automation Code Re
 Data Pipeline Database Pull Request Testing NLP Server Response Difficult roads often lead to beautiful destinations. Security JWT React Content Delivery Network Agile
 UX Optimization API Gateway Frontend Scalability Multi-threading Predictive Analytics Replica Set Quantum Computing JWT Neural Networks Edge Computing
 Success is not in what you have, but who you are. Performance Parallel Processing WebSockets Success is how high you bounce when you hit bottom. IoT Logging
+Parallel Processing React Message Queue Database Indexing Success doesn’t just find you. You have to go out and get it. Framework Replica Set Cache Invalidation Deployment Distributed Systems JWT Version Control Act as if what you do makes a difference. It does. Data Science
