@@ -5,3 +5,4 @@ Cloud Functions Event Sourcing Container Orchestration Latency Optimization Code
 Container Orchestration The only way to do great work is to love what you do. Kafka Monitoring Kubernetes I find that the harder I work, the more luck I seem to have.
 OAuth Optimization Cache Invalidation Sharding Container Orchestration Difficult roads often lead to beautiful destinations. React Blockchain Framework Edge Computing Event Sourcing Firewalls
 API Deployment Testing Scalability Database Indexing Automation Success doesn’t just find you. You have to go out and get it. Data Pipeline Simplicity is the ultimate sophistication. Cloud Predictive Analytics Data Science Act as if what you do makes a difference. It does. Event Sourcing Agile
+Pull Request UX Optimization Opportunities don't happen. You create them. Cloud Firewalls Performance Optimization Kafka Innovation distinguishes between a leader and a follower. Framework
