@@ -7,3 +7,4 @@ Scalability Opportunities don't happen. You create them. JavaScript React Do wha
 Automation Firewalls Success usually comes to those who are too busy to be looking for it. Virtual Machines Frontend Cloud RabbitMQ Version Control Innovation distinguishes between a leader and a follower. Kafka
 Parallel Processing Firewalls OAuth Virtual Machines Container Orchestration Serverless Database Indexing Cache Invalidation DNS Routing Logging Security Sharding Algorithm Work hard in silence, let your success be your noise. Artificial Intelligence
 Happiness is not something ready made. It comes from your own actions. Blockchain Great things never come from comfort zones. The only way to do great work is to love what you do. Neural Networks Docker
+If you can dream it, you can do it. Distributed Systems Microservices Edge Computing Database Monitoring Backend Serverless Difficult roads often lead to beautiful destinations. GraphQL Big Data

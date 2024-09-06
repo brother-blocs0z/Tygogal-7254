@@ -2,3 +2,4 @@ Work hard in silence, let your success be your noise. Testing Blockchain Optimiz
 Message Queue Lambda Functions Kafka Docker Big Data NLP Server Response Event-driven Architecture Opportunities don't happen. You create them. Data Science Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Microservices IoT Testing
 Security Backend Kafka Quantum Computing Virtual Machines Data Science Edge Computing Don't be afraid to give up the good to go for the great. Load Testing Event Sourcing Monitoring Distributed Systems
 Quantum Computing The only way to do great work is to love what you do. Message Queue Latency Optimization Kubernetes Replica Set API Stay hungry, stay foolish. Optimization Code Review I find that the harder I work, the more luck I seem to have.
+Optimization Edge Computing WebSockets Version Control Kubernetes Database Indexing RabbitMQ Load Balancing
