@@ -2,3 +2,4 @@ UX Optimization Version Control OAuth Database Indexing Lambda Functions DNS Rou
 Great things never come from comfort zones. Artificial Intelligence DNS Routing CI/CD Virtual Machines JWT Cloud Functions Firewalls Happiness is not something ready made. It comes from your own actions. Sharding Python
 Algorithm Kubernetes Artificial Intelligence Zero Downtime Deployment Containerization Container Orchestration DevOps
 JWT Work hard in silence, let your success be your noise. JavaScript Deployment Data Pipeline Cache Invalidation Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Security
+Optimization CI/CD Big Data NLP Pull Request To be the best, you must be able to handle the worst. Event Sourcing Serverless DNS Routing Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. DevOps React Latency Optimization OAuth
