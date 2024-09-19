@@ -3,3 +3,4 @@ Do what you love and the money will follow. Zero Downtime Deployment To be the b
 Simplicity is the ultimate sophistication. Docker Framework Zero Downtime Deployment Artificial Intelligence Database
 Docker Database Indexing UX Optimization Latency Optimization Content Delivery Network OAuth Event-driven Architecture
 Automation Content Delivery Network RabbitMQ If you can dream it, you can do it. Do what you love and the money will follow. Work hard in silence, let your success be your noise. Neural Networks
+Difficult roads often lead to beautiful destinations. Lambda Functions Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. UX Optimization Neural Networks OAuth Dream big and dare to fail. Python Backend
