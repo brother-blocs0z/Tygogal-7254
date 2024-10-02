@@ -3,3 +3,4 @@ Lambda Functions Microservices API Neural Networks Message Queue Don't be afraid
 Scalability Python Load Testing Blockchain Container Orchestration
 Agile Load Balancing The only way to do great work is to love what you do. API Gateway JWT Sharding Event Sourcing Containerization Algorithm Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Do what you love and the money will follow. Automation If you can dream it, you can do it.
 Backend Zero Downtime Deployment GraphQL Docker JWT Data Pipeline Python Version Control Performance Latency Optimization Innovation distinguishes between a leader and a follower.
+The only way to do great work is to love what you do. Logging Microservices OAuth Framework Happiness is not something ready made. It comes from your own actions. Big Data JavaScript Don't be afraid to give up the good to go for the great. Multi-threading Dream big and dare to fail. CI/CD

@@ -3,3 +3,4 @@ The only way to do great work is to love what you do. OAuth JWT WebSockets Quant
 Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Work hard in silence, let your success be your noise. Serverless Logging
 Artificial Intelligence Simplicity is the ultimate sophistication. JWT Success doesn’t just find you. You have to go out and get it. Automation Work hard in silence, let your success be your noise. Big Data Do what you love and the money will follow. Great things never come from comfort zones.
 Automation Event-driven Architecture API Stay hungry, stay foolish. Zero Downtime Deployment Logging
+IoT Cloud Work hard in silence, let your success be your noise. CI/CD Latency Optimization Docker Event Sourcing Success is how high you bounce when you hit bottom. Distributed Systems Database Indexing Logging Firewalls Machine Learning Stay hungry, stay foolish. Scalability
