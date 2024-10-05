@@ -7,3 +7,4 @@ Cloud Success is how high you bounce when you hit bottom. Replica Set Multi-thre
 The only way to do great work is to love what you do. Logging Automation Code Review Framework Content Delivery Network
 Data Pipeline Database Pull Request Testing NLP Server Response Difficult roads often lead to beautiful destinations. Security JWT React Content Delivery Network Agile
 UX Optimization API Gateway Frontend Scalability Multi-threading Predictive Analytics Replica Set Quantum Computing JWT Neural Networks Edge Computing
+Success is not in what you have, but who you are. Performance Parallel Processing WebSockets Success is how high you bounce when you hit bottom. IoT Logging

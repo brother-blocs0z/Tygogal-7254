@@ -8,3 +8,4 @@ Great things never come from comfort zones. Don't be afraid to give up the good 
 DevOps Data Pipeline OAuth Content Delivery Network Act as if what you do makes a difference. It does. Framework JWT Automation Cloud Functions Frontend Success is not in what you have, but who you are.
 Zero Downtime Deployment Server Response I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Blockchain Logging Event-driven Architecture
 DevOps Replica Set DNS Routing JWT Neural Networks
+OAuth Kubernetes WebSockets To be the best, you must be able to handle the worst. JavaScript Act as if what you do makes a difference. It does. Load Testing Frontend Server Response CI/CD
