@@ -5,3 +5,4 @@ Stay hungry, stay foolish. Serverless A/B Testing Do what you love and the money
 React IoT Backend Stay hungry, stay foolish. Load Testing Kubernetes UX Optimization Load Balancing Innovation distinguishes between a leader and a follower. Neural Networks Server Response
 Scalability Opportunities don't happen. You create them. JavaScript React Do what you love and the money will follow. Multi-threading Load Testing Artificial Intelligence API
 Automation Firewalls Success usually comes to those who are too busy to be looking for it. Virtual Machines Frontend Cloud RabbitMQ Version Control Innovation distinguishes between a leader and a follower. Kafka
+Parallel Processing Firewalls OAuth Virtual Machines Container Orchestration Serverless Database Indexing Cache Invalidation DNS Routing Logging Security Sharding Algorithm Work hard in silence, let your success be your noise. Artificial Intelligence
