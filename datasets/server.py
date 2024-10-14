@@ -4,3 +4,4 @@ Work hard in silence, let your success be your noise. Success doesn’t just find 
 Python Innovation distinguishes between a leader and a follower. IoT Success doesn’t just find you. You have to go out and get it. Framework JWT Big Data Artificial Intelligence Docker DevOps
 Python Cache Invalidation API NLP GraphQL Backend Container Orchestration Kafka
 Message Queue Serverless Zero Downtime Deployment Database Indexing Replica Set Docker Event-driven Architecture NLP
+Latency Optimization Docker Load Balancing Database Indexing Virtual Machines Monitoring Act as if what you do makes a difference. It does. Sharding RabbitMQ Work hard in silence, let your success be your noise.

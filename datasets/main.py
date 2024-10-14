@@ -1,2 +1,3 @@
 Work hard in silence, let your success be your noise. Testing Blockchain Optimization Containerization Latency Optimization GraphQL Algorithm DNS Routing Content Delivery Network Performance Data Science
 Message Queue Lambda Functions Kafka Docker Big Data NLP Server Response Event-driven Architecture Opportunities don't happen. You create them. Data Science Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Microservices IoT Testing
+Security Backend Kafka Quantum Computing Virtual Machines Data Science Edge Computing Don't be afraid to give up the good to go for the great. Load Testing Event Sourcing Monitoring Distributed Systems
