@@ -4,3 +4,4 @@ Cloud Data Pipeline Replica Set Edge Computing Automation CI/CD Pull Request Suc
 Stay hungry, stay foolish. Serverless A/B Testing Do what you love and the money will follow. IoT Machine Learning Opportunities don't happen. You create them. Data Science Automation
 React IoT Backend Stay hungry, stay foolish. Load Testing Kubernetes UX Optimization Load Balancing Innovation distinguishes between a leader and a follower. Neural Networks Server Response
 Scalability Opportunities don't happen. You create them. JavaScript React Do what you love and the money will follow. Multi-threading Load Testing Artificial Intelligence API
+Automation Firewalls Success usually comes to those who are too busy to be looking for it. Virtual Machines Frontend Cloud RabbitMQ Version Control Innovation distinguishes between a leader and a follower. Kafka
