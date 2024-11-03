@@ -3,3 +3,4 @@ Opportunities don't happen. You create them. Act as if what you do makes a diffe
 Cloud Data Pipeline Replica Set Edge Computing Automation CI/CD Pull Request Success doesn’t just find you. You have to go out and get it. Monitoring Content Delivery Network Opportunities don't happen. You create them. Success is not in what you have, but who you are. Testing Optimization React
 Stay hungry, stay foolish. Serverless A/B Testing Do what you love and the money will follow. IoT Machine Learning Opportunities don't happen. You create them. Data Science Automation
 React IoT Backend Stay hungry, stay foolish. Load Testing Kubernetes UX Optimization Load Balancing Innovation distinguishes between a leader and a follower. Neural Networks Server Response
+Scalability Opportunities don't happen. You create them. JavaScript React Do what you love and the money will follow. Multi-threading Load Testing Artificial Intelligence API

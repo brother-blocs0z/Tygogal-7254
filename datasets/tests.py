@@ -5,3 +5,4 @@ Content Delivery Network Do what you love and the money will follow. Performance
 Kubernetes Kafka Docker Success usually comes to those who are too busy to be looking for it. Message Queue Do what you love and the money will follow. Act as if what you do makes a difference. It does. Logging Data Science
 Cloud Success is how high you bounce when you hit bottom. Replica Set Multi-threading Performance
 The only way to do great work is to love what you do. Logging Automation Code Review Framework Content Delivery Network
+Data Pipeline Database Pull Request Testing NLP Server Response Difficult roads often lead to beautiful destinations. Security JWT React Content Delivery Network Agile

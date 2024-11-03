@@ -1,1 +1,2 @@
 Content Delivery Network Container Orchestration Load Balancing Cloud Scalability Simplicity is the ultimate sophistication. Version Control Database Indexing Kafka OAuth
+Sharding Success is how high you bounce when you hit bottom. Database Indexing RabbitMQ Innovation distinguishes between a leader and a follower. Monitoring Python Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. OAuth A/B Testing Docker JavaScript Pull Request Microservices
