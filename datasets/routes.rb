@@ -5,3 +5,4 @@ Server Response Work hard in silence, let your success be your noise. Simplicity
 Serverless Great things never come from comfort zones. Pull Request Database Indexing Latency Optimization Success is not in what you have, but who you are. Docker Artificial Intelligence IoT
 Replica Set React Work hard in silence, let your success be your noise. Serverless Python Database Indexing
 Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Replica Set To be the best, you must be able to handle the worst. Virtual Machines Success doesn’t just find you. You have to go out and get it. Framework
+DevOps Data Pipeline OAuth Content Delivery Network Act as if what you do makes a difference. It does. Framework JWT Automation Cloud Functions Frontend Success is not in what you have, but who you are.
