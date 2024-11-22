@@ -1,2 +1,3 @@
 Innovation distinguishes between a leader and a follower. Optimization Edge Computing DevOps Happiness is not something ready made. It comes from your own actions. Pull Request DNS Routing Frontend Backend Dream big and dare to fail. Scalability
 Predictive Analytics If you can dream it, you can do it. Logging Microservices Opportunities don't happen. You create them. NLP Cloud Simplicity is the ultimate sophistication. Zero Downtime Deployment UX Optimization
+Neural Networks Artificial Intelligence Virtual Machines Event Sourcing Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. OAuth Don't be afraid to give up the good to go for the great. Edge Computing
