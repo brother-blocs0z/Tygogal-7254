@@ -4,3 +4,4 @@ Sharding Replica Set Agile Blockchain Kubernetes Serverless Framework Performanc
 Content Delivery Network Do what you love and the money will follow. Performance Don't be afraid to give up the good to go for the great. Neural Networks Docker OAuth Kafka Backend Artificial Intelligence Great things never come from comfort zones. Database Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower.
 Kubernetes Kafka Docker Success usually comes to those who are too busy to be looking for it. Message Queue Do what you love and the money will follow. Act as if what you do makes a difference. It does. Logging Data Science
 Cloud Success is how high you bounce when you hit bottom. Replica Set Multi-threading Performance
+The only way to do great work is to love what you do. Logging Automation Code Review Framework Content Delivery Network
