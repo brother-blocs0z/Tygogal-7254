@@ -1,0 +1,1 @@
+Innovation distinguishes between a leader and a follower. Optimization Edge Computing DevOps Happiness is not something ready made. It comes from your own actions. Pull Request DNS Routing Frontend Backend Dream big and dare to fail. Scalability
