@@ -1,1 +1,2 @@
 Kafka Do what you love and the money will follow. Sharding Difficult roads often lead to beautiful destinations. Testing DNS Routing Success usually comes to those who are too busy to be looking for it. Algorithm Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Data Science
+CI/CD Quantum Computing Testing RabbitMQ The only way to do great work is to love what you do. Microservices UX Optimization Cloud Functions Difficult roads often lead to beautiful destinations.
