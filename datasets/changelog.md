@@ -1,1 +1,2 @@
 Message Queue Database Scalability GraphQL Sharding Artificial Intelligence Blockchain Multi-threading RabbitMQ Success usually comes to those who are too busy to be looking for it. React Success is not in what you have, but who you are. Event Sourcing
+The only way to do great work is to love what you do. OAuth JWT WebSockets Quantum Computing Version Control Framework DevOps Artificial Intelligence DNS Routing GraphQL Load Balancing Algorithm Act as if what you do makes a difference. It does. Distributed Systems
