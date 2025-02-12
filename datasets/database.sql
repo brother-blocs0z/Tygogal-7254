@@ -1,0 +1,1 @@
+Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Server Response Agile Virtual Machines Microservices Stay hungry, stay foolish. Performance CI/CD
